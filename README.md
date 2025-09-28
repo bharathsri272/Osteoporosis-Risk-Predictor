@@ -98,7 +98,7 @@ streamlit run Osteoporosis_Risk_app.py
     .
     ├── data/                      # dataset (if public)
     ├── models/                    # saved .pkl models
-    ├── notebook/   # Jupyter Notebook (EDA + training)
+    ├── notebook/                  # Jupyter Notebook (EDA + training)
     ├── Osteoporosis_Risk_app.py           # Streamlit App
     ├── requirements.txt
     └── README.md
